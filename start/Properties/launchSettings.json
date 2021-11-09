@@ -3,7 +3,7 @@
     "StorageQueueApp": {
       "commandName": "Project",
       "environmentVariables": {
-        "STORAGE_CONNECTION_STRING": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=queuesjcnov8th;AccountKey=jpcFDUMGaoCDQKa8k9McNwPgApz7g95lHRzSIoG9n19Bio82jLYuI41uDNrhHoD+LQ/A4iaexn5YUZn457uMWg=="
+        "STORAGE_CONNECTION_STRING": "test"
       }
     }
   }
